@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development,MEARN,Android**
 
-- 📫 How to reach me **abhrajitdas12245@gmail,com**
+- 📫 How to reach me **abhrajitdas12245@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-PtPGxbYvq9OTIkM3jky8RM0K2Kdh2Rm/view?usp=drive_link](https://drive.google.com/file/d/1-PtPGxbYvq9OTIkM3jky8RM0K2Kdh2Rm/view?usp=drive_link)
 
