@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhrajitdas12245@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-PtPGxbYvq9OTIkM3jky8RM0K2Kdh2Rm/view?usp=drive_link](https://drive.google.com/file/d/1-PtPGxbYvq9OTIkM3jky8RM0K2Kdh2Rm/view?usp=drive_link)
+- 📄 Know about my experiences https://rb.gy/nnqu5
 
 - ⚡ Fun fact **I think I am funny**
 
