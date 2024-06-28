@@ -5,15 +5,15 @@
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhrajitdas02&label=Profile%20views&color=0e75b6&style=flat" alt="abhrajitdas02" /> </p>
 
-- 🔭 I’m currently working on **Opencv**
+- 🔭 I’m currently working on **NextJs**
 
-- 🌱 I’m currently learning **ReactJs ,DJango**
+- 🌱 I’m currently learning **ReactJs ,DJango, NextJs**
 
-- 💬 Ask me about **Web Development,MEARN,Android**
+- 💬 Ask me about **Web Development,MEARN,Machine Learning**
 
 - 📫 How to reach me **abhrajitdas12245@gmail.com**
 
-- 📄 Know about my experiences https://rb.gy/nnqu5
+- 📄 Know about my experiences https://shorturl.at/SkJOd
 
 - ⚡ Fun fact **I think I am funny**
 
