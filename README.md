@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhrajitdas02&" alt="abhrajitdas02" /></p>
 
-![snake gif](https://github.com/Abhrajitdas02/Abhrajitdas02/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Abhrajitdas02/Abhrajitdas02/blob/output/github-contribution-grid-snake.svg)
